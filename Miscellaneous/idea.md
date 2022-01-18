@@ -1,3 +1,9 @@
+### 2021.01
+**idea**
+- bimodal distribution
+
+---
+
 ### 2021.12
 
 **idea**
