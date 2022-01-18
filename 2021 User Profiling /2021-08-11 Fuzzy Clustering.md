@@ -10,7 +10,6 @@ https://rfriend.tistory.com/230
 - k개 군집을 사전적으로 정해줘야함.
 - 유사성의 측도로 distance 사용
 
-
 ### 2. research
 [Fuzzy Clustering 기반의 화재 상황 인식 모델](https://scienceon.kisti.re.kr/commons/util/originalView.do?cn=JAKO201125736639827&oCn=JAKO201125736639827&dbt=JAKO&journal=NJOU00423616)
 - summary
@@ -22,6 +21,6 @@ https://rfriend.tistory.com/230
 	-  입력변수의 소속 함수, 퍼지규칙, 출력변수의 소속 함수로 구성
 
 [Application of the C-Means Fuzzy Clustering Method for the Patient’s State Recognition Problems in the Medical Monitoring Systems](http://ceur-ws.org/Vol-2362/paper20.pdf)
-
 refer
+
 - https://www.researchgate.net/publication/4309998_Similarity-Based_Fuzzy_Clustering_for_User_Profiling
