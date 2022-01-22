@@ -15,8 +15,7 @@ tags: [time series clustering, demand forecasting]
 	- DSHW(Double Seasonal Holt-Winters), TBATS(Trigonometric, Box-Cox transform, ARMA errors, Trend and Seasonal components)모형, FARIMA(Fractional ARIMA)
 - 결론 : 전체 사용량을 기반으로 예측하는 방식이 아닌 군집분석을 통한 군집별 예측량의 결합이 더 낮은 MAPE로 나타남에 따라 우수한 예측 방법으로 판단
   
-  
----
+
 **memo**
 
 수요 예측을 위한 다양한 접근법 
