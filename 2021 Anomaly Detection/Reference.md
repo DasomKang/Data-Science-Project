@@ -1,10 +1,21 @@
 
+# Time Series Prediction 
+Overall
+- https://otexts.com/fppkr/graphics-exercises.html
+
+Holt-Winters Model
+- https://www.hindawi.com/journals/jcnc/2012/192913/
+- https://annals-csis.org/proceedings/2012/pliks/118.pdf
+
+
+
 
 
 # Paper Research 
 archive : https://github.com/users/DasomKang/projects/1
-
-
+  
+  
+  
 # Articles
 
 
