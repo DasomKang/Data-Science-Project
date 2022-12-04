@@ -8,16 +8,15 @@ Holt-Winters Model
 - [Brutlag algorithm](https://annals-csis.org/proceedings/2012/pliks/118.pdf)
 
 
+# Case study
+
+- [이상탐지를 위한 빠른 시계열모델(RLS필터주기모델](https://www.intelligencelabs.tech/4752f552-7c2c-4073-806f-790e30a51296)
+	- [요약](https://drive.google.com/drive/u/2/folders/1Ne-dFme5J1Wces-Bb_WcmlMKVLpjUGJT)
 
 
 
-# Paper Research 
-archive : https://github.com/users/DasomKang/projects/1
-  
-  
-  
+
 # Articles
-
 
 ### 2021-12
 
