@@ -25,3 +25,12 @@
     - 물류팀: 일용직 알바 고용이 얼마나 더 필요한지, 용달차 몇 대 늘려야할지
     - 마케팅팀: 고객 몇 명에게 쿠폰을 발급하고, 상품 알림을 보낼지
     - 기술팀: 서버를 얼마나 더 증설해야할지
+
+
+
+
+### Backlog
+
+
+- GAMs
+    - [Analysis of influencing factors on soil Zn content using generalized additive model](https://www.nature.com/articles/s41598-018-33745-9)
